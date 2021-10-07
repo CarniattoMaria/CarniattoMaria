@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarniattoMaria
-- 👀 I’m interested in  Biologia Marinha e zoologia
-- 🌱 I’m currently learning  Biologia
-- 💞️ I’m looking to collaborate on  pesquisas
+- 👀 I’m interested in  Marine Biology e zoology
+- 🌱 I’m currently learning  Biology
+- 💞️ I’m looking to collaborate on  
 - 📫 How to reach me  Maju.carniatto@gmail.com
 
 <!---
